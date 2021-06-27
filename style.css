@@ -1,0 +1,188 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    width: 500px;
+    height: 1500px;
+  }
+  .yellowbox {
+    width: 100%;
+    height: 150px;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+  }
+  .fa-bars {
+    margin-left: 5px;
+  }
+  .toolbar__text {
+    font-size: 30px;
+    margin-left: 180px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  .fa-shopping-bag {
+    margin-left: 160px;
+  }
+  .searchbar {
+    width: 80%;
+    height: 80px;
+    border-radius: 30px;
+    background-color: white;
+    margin-top: -45px;
+    margin-left: 53px;
+    display: flex;
+    align-items: center;
+  }
+  .searchbar__text {
+    color: gray;
+    font-size: 20px;
+    margin-left: 50px;
+  }
+  .fa-search {
+    margin-left: 180px;
+    color: gray;
+  }
+  .main {
+    display: flex;
+  }
+  .main__image {
+    width: 230px;
+    height: 300px;
+    border-radius: 30px;
+  }
+  .main__text__title {
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    margin-left: 15px;
+    margin-top: 20px;
+  }
+  .main__text__author {
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    margin-left: 15px;
+    color: gray;
+    margin-top: 10px;
+  }
+  .main__text__star {
+    margin-left: 15px;
+    margin-top: 20px;
+  }
+  .button {
+    margin-left: 10px;
+    margin-top: 40px;
+    display: flex;
+  }
+  .main__text__journey {
+    width: 120px;
+    height: 40px;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .main__text__biography {
+    width: 120px;
+    height: 40px;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 8px;
+  }
+  .main__text__last {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  .main__text__bookmark {
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  }
+  .fa-bookmark {
+    margin-top: 15px;
+  }
+  .booknow {
+    width: 150px;
+    height: 60px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    border-radius: 30px;
+  }
+  .booknow__text {
+    margin-top: 15px;
+    color: white;
+  }
+  .head__snd {
+    font-size: 32px;
+  }
+  .top {
+    display: flex;
+    justify-content: center;
+  }
+  .top__one {
+    width: 130px;
+    height: 200px;
+    border-radius: 30px;
+  }
+  .top__two {
+    margin-left: 30px;
+    width: 130px;
+    height: 200px;
+    border-radius: 30px;
+  }
+  .top__three {
+    margin-left: 30px;
+    width: 130px;
+    height: 200px;
+    border-radius: 30px;
+  }
+  .stars {
+    display: flex;
+    margin-top: 10px;
+  }
+  .stars__fst {
+    margin-left: 33px;
+  }
+  .stars__snd {
+    margin-left: 55px;
+  }
+  .stars__trd {
+    margin-left: 55px;
+  }
+  .head__trd {
+    font-size: 32px;
+  }
+  .author {
+    display: flex;
+  }
+  .author__image {
+    width: 200px;
+    height: 270px;
+    border-radius: 30px;
+  }
+  .author__text {
+    margin-top: 50px;
+  }
+  .author__text__main {
+    margin-left: 50px;
+    font-size: 30px;
+  }
+  .author__text__main__2nd {
+    margin-left: 50px;
+    font-size: 30px;
+  }
+  .author__text__sub {
+    margin-left: 50px;
+    font-size: 20px;
+    color: gray;
+  }
